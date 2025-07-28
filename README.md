@@ -49,9 +49,3 @@ The following core OOP topics are included:
 - Basic knowledge of Python syntax  
 - Code editor (VS Code, PyCharm, etc.)
 
-### Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/oop-concepts-python.git
-cd oop-concepts-python
